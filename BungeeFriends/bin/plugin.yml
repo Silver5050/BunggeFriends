@@ -1,0 +1,11 @@
+name: BungeeFriends
+version: 1.0
+author: Justix
+main: net.dev.bungeefriends.BungeeFriends
+
+commands:
+      friend:
+      party:
+      pc:
+      msg:
+      r:
