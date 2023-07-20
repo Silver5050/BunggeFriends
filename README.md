@@ -1,2 +1,2 @@
 # BunggeFriends
-Ein einfaches Freundes System für BunggeCord
+Ein einfaches Freundes System für BungeeCord
